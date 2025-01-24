@@ -103,12 +103,20 @@ aspects within Kubernetes.
 **Frederico: In terms of community involvement, have you seen changes
 in terms of contributors in recent months?**
 
-James: Yes - As showing in our unique pr author data we recently hit
+James: Yes - As showing in our [unique PR author data](https://etcd.devstats.cncf.io/d/23/prs-authors-repository-groups?orgId=1&var-period=m&var-repogroup_name=All&from=now-10y&to=now-38d) we recently hit
 an all time high in March and are trending in a positive direction:
 
-Additionally looking at our overall contributions across all etcd
-project repositories we are also observing a positive trend showing a
-resurgence in etcd project activity:
+<figure>
+	<img src="/blog/2025/sig-etcd-spotlight/stats.png" alt="Unique PR author data stats"></img>
+</figure>
+
+Additionally looking at our [overall contributions across all etcd project repositories](https://etcd.devstats.cncf.io/d/74/contributions-chart?orgId=1&from=now-10y&to=now-38d&var-period=m&var-metric=contributions&var-repogroup_name=All&var-country_name=All&var-company_name=All&var-company=all) 
+we are also observing a positive trend showing a resurgence in etcd project activity:
+
+<figure>
+	<img src="/blog/2025/sig-etcd-spotlight/stats2.png" alt="Overall contributions stats"></img>
+</figure>
+
 
 ## The road ahead
 
