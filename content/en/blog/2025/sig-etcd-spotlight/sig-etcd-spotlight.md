@@ -164,7 +164,7 @@ our SIG etcd meetings, follow discussions on the etcd-dev mailing
 list, and check out our GitHub issues. We're always looking for people
 to review proposals, test code, and contribute to documentation.
 
-**Wenjia**: I love this question:) There are numerous ways for people
+**Wenjia**: I love this question :) There are numerous ways for people
 interested in contributing to SIG etcd to get involved and make a
 difference. Here are some key areas where you can help:
 
