@@ -1,17 +1,17 @@
 ---
 layout: blog
-title: "Spotlight on SIG Etcd"
+title: "Spotlight on SIG etcd"
 slug: sig-etcd-spotlight
 date: 2025-02-05
 author: "Frederico Muñoz (SAS Institute)"
 ---
 
-In this SIG Etcd spotlight we talked with [James Blair](https://github.com/jmhbnz), [Marek
+In this SIG etcd spotlight we talked with [James Blair](https://github.com/jmhbnz), [Marek
 Siarkowicz](https://github.com/serathius), [Wenjia Zhang](https://github.com/wenjiaswe), and
 [Benjamin Wang](https://github.com/ahrtr) to learn a bit more about this Kubernetes Special Interest
 Group.
 
-## Introducing SIG Etcd
+## Introducing SIG etcd
 
 **Frederico: Hello, thank you for the time! Let’s start with some introductions, could you tell us a
 bit about yourself, your role and how you got involved in Kubernetes.**
