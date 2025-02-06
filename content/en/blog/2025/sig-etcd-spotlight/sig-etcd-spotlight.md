@@ -2,7 +2,7 @@
 layout: blog
 title: "Spotlight on SIG etcd"
 slug: sig-etcd-spotlight
-date: 2025-02-05
+date: 2025-02-11
 author: "Frederico Muñoz (SAS Institute)"
 ---
 
@@ -98,20 +98,16 @@ Kubernetes.
 community involvement in recent months?**
 
 **James**: Yes -- as showing in our 
-[unique PR author data](https://etcd.devstats.cncf.io/d/23/prs-authors-repository-groups?orgId=1&var-period=m&var-repogroup_name=All&from=now-10y&to=now-38d)
+[unique PR author data](https://etcd.devstats.cncf.io/d/23/prs-authors-repository-groups?orgId=1&var-period=m&var-repogroup_name=All&from=1422748800000&to=1738454399000)
 we recently hit an all time high in March and are trending in a positive direction:
 
-<figure>
-	<img src="/blog/2025/sig-etcd-spotlight/stats.png" alt="Unique PR author data stats"></img>
-</figure>
+{{< figure src="/blog/2025/sig-etcd-spotlight/stats.png" alt="Unique PR author data stats" >}}
 
 Additionally, looking at our 
-[overall contributions across all etcd project repositories](https://etcd.devstats.cncf.io/d/74/contributions-chart?orgId=1&from=now-10y&to=now-38d&var-period=m&var-metric=contributions&var-repogroup_name=All&var-country_name=All&var-company_name=All&var-company=all) 
+[overall contributions across all etcd project repositories](https://etcd.devstats.cncf.io/d/74/contributions-chart?orgId=1&from=1422748800000&to=1738454399000&var-period=m&var-metric=contributions&var-repogroup_name=All&var-country_name=All&var-company_name=All&var-company=all) 
 we are also observing a positive trend showing a resurgence in etcd project activity:
 
-<figure>
-	<img src="/blog/2025/sig-etcd-spotlight/stats2.png" alt="Overall contributions stats"></img>
-</figure>
+{{< figure src="/blog/2025/sig-etcd-spotlight/stats2.png" alt="Overall contributions stats"></img> >}}
 
 ## The road ahead
 
@@ -154,9 +150,8 @@ follow discussions on the [etcd-dev mailing list](https://groups.google.com/g/et
 out our [GitHub issues](https://github.com/etcd-io/etcd/issues). We're always looking for people to
 review proposals, test code, and contribute to documentation.
 
-**Wenjia**: I love this question :) There are numerous ways for people
-interested in contributing to SIG etcd to get involved and make a
-difference. Here are some key areas where you can help:
+**Wenjia**: I love this question 😀 . There are numerous ways for people interested in contributing
+to SIG etcd to get involved and make a difference. Here are some key areas where you can help:
 
 **Code Contributions**:
  - _Bug Fixes_: Tackle existing issues in the etcd codebase. Start with issues labeled "good first
