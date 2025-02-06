@@ -89,7 +89,7 @@ Machinery](https://github.com/kubernetes/community/blob/master/sig-api-machinery
 [SIG Cluster Lifecycle](https://github.com/kubernetes/community/tree/master/sig-cluster-lifecycle), etc. 
 
 This collaboration helps ensure etcd's development aligns with the needs of the wider Kubernetes
-ecosystem. The formation of the [etcd Operator Working Group]/(https://github.com/kubernetes/community/blob/master/wg-etcd-operator/README.md) 
+ecosystem. The formation of the [etcd Operator Working Group](https://github.com/kubernetes/community/blob/master/wg-etcd-operator/README.md) 
 under the joint effort between SIG etcd and SIG Cluster Lifecycle exemplifies this successful
 collaboration, demonstrating a shared commitment to improving etcd's operational aspects within
 Kubernetes.
