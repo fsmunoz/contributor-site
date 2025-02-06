@@ -31,7 +31,7 @@ wonderful journey so far and I’m excited to support our community moving forwa
 
 **Marek:** Hey everyone, I'm Marek, the SIG etcd lead. At Google, I lead the GKE etcd team, ensuring
 a stable and reliable experience for all GKE users. My Kubernetes journey began with [SIG
-Istrumentation](https://github.com/kubernetes/community/tree/master/sig-instrumentation), where I
+Instrumentation](https://github.com/kubernetes/community/tree/master/sig-instrumentation), where I
 created and led the [Kubernetes Structured Logging effort](https://kubernetes.io/blog/2020/09/04/kubernetes-1-19-introducing-structured-logs/).  
 I'm still the main project lead for [Kubernetes Metrics Server](https://kubernetes-sigs.github.io/metrics-server/), 
 providing crucial signals for autoscaling in Kubernetes. I started working on etcd 3 years ago,
