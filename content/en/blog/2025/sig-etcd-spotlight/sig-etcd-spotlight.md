@@ -107,7 +107,7 @@ Additionally, looking at our
 [overall contributions across all etcd project repositories](https://etcd.devstats.cncf.io/d/74/contributions-chart?orgId=1&from=1422748800000&to=1738454399000&var-period=m&var-metric=contributions&var-repogroup_name=All&var-country_name=All&var-company_name=All&var-company=all) 
 we are also observing a positive trend showing a resurgence in etcd project activity:
 
-{{< figure src="/blog/2025/sig-etcd-spotlight/stats2.png" alt="Overall contributions stats"></img> >}}
+{{< figure src="/blog/2025/sig-etcd-spotlight/stats2.png" alt="Overall contributions stats" >}}
 
 ## The road ahead
 
