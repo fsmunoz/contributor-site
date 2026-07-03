@@ -88,7 +88,7 @@ Some concrete indicators of success include:
 
 Most importantly, the WG created consensus that AI workloads are now a first-class Kubernetes use case.
 
-![AI Conformance at the KubeCon+CloudNativeCon NA 2025](./ai_conf_kubecon.jpg)
+![AI Conformance at the KubeCon+CloudNativeCon NA 2025](ai_conf_kubecon.jpg)
 
 **FK: AI Conformance was specifically highlighted at the latest KubeCon: is this a reflection of the
 growing importance of AI throughout the project?**
@@ -116,7 +116,7 @@ So the emphasis on AI Conformance is not just about chasing AI hype; it's about 
 to a major shift in workload patterns and ensuring the ecosystem evolves cohesively rather than
 fragmenting into vendor-specific AI stacks.
 
-![AI Conformance: initial adopters and major contributors (KubeCon NA 2025)](./ai_conf_sponsors.jpg)
+![AI Conformance: initial adopters and major contributors (KubeCon NA 2025)](ai_conf_sponsors.jpg)
 
 ## From Working Group to SIG Architecture subproject
 
