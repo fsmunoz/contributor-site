@@ -181,7 +181,7 @@ foundational level to support the next decade of AI workloads.
 
 **FK: For interested contributors, what’s the best way to get involved with the AI Conformance subproject?**
 
-We're always looking for new contributors. The easiest way to get started is by checking out our
+**Janet and Yuan**: We're always looking for new contributors. The easiest way to get started is by checking out our
 main repo at [kubernetes-sigs/ai-conformance](https://github.com/kubernetes-sigs/ai-conformance) and
 join our [meetings](https://github.com/kubernetes/community/tree/main/sig-architecture#meetings). If
 you're interested in defining new AI Conformance requirements, you can jump into PR reviews or
