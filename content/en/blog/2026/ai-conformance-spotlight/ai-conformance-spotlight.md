@@ -190,7 +190,9 @@ you want to write code, we always need help expanding our automated Go test suit
 certify their platforms, all the details are at
 [cncf/k8s-ai-conformance](https://github.com/cncf/k8s-ai-conformance).
 
-**FK: Any final comments you would like to share?** **Janet and Yuan**: We’ve been blown away by how
+**FK: Any final comments you would like to share?** 
+
+**Janet and Yuan**: We’ve been blown away by how
 fast the community has rallied around this. When we first announced the AI Conformance program
 during the keynote at [KubeCon NA 2025](https://www.cncf.io/reports/kubecon-cloudnativecon-north-america-2025/), we weren’t sure what
 the response would be. But by the time we gave our update keynote at [KubeCon EU 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/), we had grown from 18
